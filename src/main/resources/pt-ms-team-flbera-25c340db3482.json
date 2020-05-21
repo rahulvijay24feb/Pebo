@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pt-ms-team-flbera",
+  "private_key_id": "25c340db348216da0480ffd76c2eccd4951b3224",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxbR+BVP1SREBp\n+bHpv0xmxJrSJ4CTg3kq7yUfB0Xp+bc5whgSce2e7rR1Ll1ZdU0c9jIF9V17nd+E\n/IaOzYntoOIe1AJOrI0UBEjw9egzalmxihBCG5G8CVJqKSAIULOls1gaLCKjU1ju\nFaCyQ28aDHmux5pcneLlNNqeYp+8EeGivjgHCWlEP1Stc4NWcECRCMzu3b2yBxcO\nLK1vu60Ux14qXrgCpBafMoWRZs3SRTVNW9W5MRzd2bc3/nsfaPs/BJpYpRQ73u9W\niBK8T2porVnx5B8MhXvk+bHA2oauoPJKnyPmEhTqfPciNQ8mvGwF1pnA6jsbVQIw\njF1znS27AgMBAAECggEAMdK+Y5+dqVHgMsI6+zRMfJleDoCoQwRK7MsOBgoRUHRe\nxvnhr6BNhXFrvHJCJYJinqzl/DVcRH/fSiVtlcFTJ6cjiFupsDUVQtc3Mm8jfviw\n6kGmciHyyTZm7cfRpnQfFntn1KWrLmkT0nvBTf3Qv6RcMT/88WAm3I18jLiOOY3m\nAenEiRTGMn2Mb/YMa4nO+YMloBpQSkqE+cMUu0hd1XZ8wU0MCFafc234BJEpeBrl\norxJeWCXihQYYyQ+O7Y2FRrs8w2b+pmDacrphsJfbZOTXhWdraRzyTjUh+Ip7TXo\nERz9Lh+zmWhT4EVRt73tnbGYbAXjftdEb6VmTIfBuQKBgQDiLam/k/svLcWA3ttl\nLGn8pP517He/2/DhbKGLX4of+DnBi0KhPRxLMvUzrWqHAK2U6m/eiF2nzzBPJQCH\ncxjQQ2T3g+7p9ZfsissV1L45Cqn3DYxzbuOzjiZtgV4oHiRaK7KEb5kPKULeZxVh\nsSC4JatRvxW2N0wknBXUiOmmCQKBgQDI0eZ0o9zjynym9bJQEQY5MVHGWgcd/uN7\nRP8wBjRcB/RQ8eg7ueYxic6kfXFE/+w4IErBTLAHVGZPaiqpXxACUYNiHrpdmdnl\nyA3tljo+SKPNQW5axZoHTVnFCNC0LX0crDYg2UlyIRISi+Gd0sHVQICpZGbgiUXI\nQ3G3NGJGowKBgBoUk99QbAVrrLuIdxn6fhow2Fq2srQ/403LHfGZSa8YC2ji6wL2\nrf2J2bZkx8Tbciiaw92QMeR4wqRNqvrzbagOLWVRJEp8FFGlS3ev+WNQdHrVaB2j\nasQ4nvu/kCDmIOD46vPUfny+EETe9Bs4toIlbdTWSOWjCLer++RvCSopAoGAAgaD\n8Yc5kh6XtUNjIgWZ73e84GhGDBpnBvZCMKTPYGJAJ5TZB8kvNi6yo9wUCWMfac2B\nk4OHfvtt8L0cYwrvaWaTEalHrewAU5357fyG59vpswdG6ql1jT9NeXxGRpry2Rgv\nj5NBd2I4AXHhu6rFg7Yb1hmKJBeeWY+8lOF1YEsCgYEApeTCdpn3v24jZixIM/Lc\nkcTsmT0c+fzHqC2SeW+akQuetBsJ6JB9nQ7w5OT4jRwG9zz66LT0zR8wFG2yVK1W\nHXBdUqtRHD9t7mGamGM89QckZFqf8jwyK1TvB5KL8g6gkwmumPpkAYbAEIJuCWdJ\nBlzjcUdBwi1Xt72m5LQZsyA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-gfnfph@pt-ms-team-flbera.iam.gserviceaccount.com",
+  "client_id": "116721255410804752920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-gfnfph%40pt-ms-team-flbera.iam.gserviceaccount.com"
+}
